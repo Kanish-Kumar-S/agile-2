@@ -3,6 +3,6 @@ import org.junit.jupiter.api.Test;
 public class AppTest {
 @Test
 void testAddition() {
-assertEquals(5, App.add(2, 3));
+assertEquals(130, App.fare(2, 3,4));
 }
 }
